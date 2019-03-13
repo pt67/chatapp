@@ -1,6 +1,6 @@
 # chatapp
 
-##App discription.
+## App discription.
 
 Environment: local
 logic : simple
